@@ -21,7 +21,7 @@
             <id>ossrh</id>
             <url>https://oss.sonatype.org/content/repositories/snapshots</url>
         </snapshotRepository>
-    </distributionManagement>
+</distributionManagement>
 
     <dependencies>
     <dependency>
